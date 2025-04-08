@@ -246,6 +246,10 @@ a:hover {
   margin-bottom: 0;
 }
 
+.disc-list {
+  list-style-type: disc;
+}
+
 .list-ico {
   line-height: 2;
 }
